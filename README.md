@@ -1,4 +1,4 @@
-# Cr-App - A Cryptowatch App!
+# CryptoChain - A Cryptowatch App!
 
 This web-app was made using React (+Redux), and [Coinranking](https://rapidapi.com/Coinranking/api/coinranking1) and [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1) RapidAPIs.
 
